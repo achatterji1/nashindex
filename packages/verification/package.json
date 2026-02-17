@@ -1,0 +1,1 @@
+{"name": "verification-service", "version": "1.0.0", "description": "Verification service for Nashindex", "main": "index.js", "scripts": {"test": "echo 'Error: no test specified' && exit 1}, "author": "achatterji1", "license": "ISC"}
