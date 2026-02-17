@@ -1,1 +1,1 @@
-{"date": "2026-02-17 18:13:43"}
+{\n  \"pipeline\": {\n    \"build\": {\n      \"image\": \"node:14\",\n      \"commands\": [\n        \"npm install\",\n        \"npm run build\"\n      ]\n    },\n    \"test\": {\n      \"image\": \"node:14\",\n      \"commands\": [\n        \"npm test\"\n      ]\n    },\n    \"deploy\": {\n      \"image\": \"node:14\",\n      \"commands\": [\n        \"npm run deploy\"\n      ]\n    }\n  },\n  \"settings\": {\n    \"timeout\": \"30m\",\n    \"retry\": 3\n  }\n}
