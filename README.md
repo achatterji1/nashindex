@@ -1,6 +1,6 @@
-# Nashindex 
+# NashIndex 
 
-Nashindex is a cutting-edge project designed to leverage artificial intelligence for indexing and retrieving relevant information efficiently. This project aims to enhance how users interact with large sets of data by providing a more intuitive and smart search experience.
+NashIndex is a cutting-edge project designed to leverage artificial intelligence for indexing and retrieving relevant information efficiently. This project aims to enhance how users interact with large sets of data by providing a more intuitive and smart search experience.
 
 ## Features
 - Intelligent data indexing
