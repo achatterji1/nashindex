@@ -36,8 +36,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or inquiries, please reach out to the project maintainer:
-- **Name**: Your Name
-- **Email**: your.email@example.com
+- **Name**: Arpan Chatterji
+- **Email**: achatterji@utexas.edu
 
 ---
 
