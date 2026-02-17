@@ -1,0 +1,1 @@
+{\n  "name": "nashindex",\n  "private": true,\n  "workspaces": [\n    "packages/*"\n  ],\n  "scripts": {\n    "build": "turbo run build",\n    "test": "turbo run test"\n  }\n}
